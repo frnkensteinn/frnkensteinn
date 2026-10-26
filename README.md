@@ -1,9 +1,6 @@
 ## 💫 About Me:
 
 🎓 Systems and Information Technology student at Institut Teknologi Bandung (ITB)<br>
-🌱 Currently learning: Frontend Engineering, Testing, and CI/CD in monorepo environments<br>
-💡 Interests: Web development, building accessible web applications, and UI/UX<br>
-🔭 Currently working on: OSKM ITB 2026 Web Portfolio as a Frontend Developer<br>
 📫 Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 
 ### 🌐 Socials:
@@ -36,11 +33,10 @@
 
 - **OSKM ITB 2026 Web Portfolio** | Frontend Developer in a 28-developer monorepo · `React` `TypeScript` `Vite` `Vitest`
 - **PEMIRA KM-ITB 2026 Web Platform** | Responsive frontend pages, 🏆 Best IT Staff Award · `React` `Tailwind CSS` `JavaScript`
-- **Batik Birru 13th Registration Website** | Helped secure a record 3,056 registrants · `HTML` `CSS` `JavaScript` `Spreadsheet API`
 
 ## 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=frnkensteinn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=frnkensteinn&theme=radical&hide_border=false&count_private=true&show_icons=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frnkensteinn&theme=radical&hide_border=false&layout=compact)
 
 ---
