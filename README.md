@@ -1,15 +1,15 @@
-## 💫 About Me:
+## About Me:
 
-🎓 Information Systems and Technology (IST) student at Institut Teknologi Bandung (ITB)<br>
-📫 Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
+Information Systems and Technology (IST) student at Institut Teknologi Bandung (ITB)<br>
+Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 
-### 🌐 Socials:
+### Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanfa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ihsanfdha_)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ihsanfadhlihakbar@gmail.com)
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,12 +29,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Featured Projects:
+## Featured Projects:
 
 - **OSKM ITB 2026 Web Portfolio** | Frontend Developer in a 28-developer monorepo · `React` `TypeScript` `Vite` `Vitest`
 - **PEMIRA KM-ITB 2026 Web Platform** | Responsive frontend pages · `React` `Tailwind CSS` `JavaScript`
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=frnkensteinn&theme=radical&hide_border=false&count_private=true&show_icons=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frnkensteinn&theme=radical&hide_border=false&layout=compact)
