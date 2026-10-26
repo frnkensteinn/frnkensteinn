@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-🎓 Systems and Information Technology student at Institut Teknologi Bandung (ITB)<br>
+🎓 Information Systems and Technology (IST) student at Institut Teknologi Bandung (ITB)<br>
 📫 Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 
 ### 🌐 Socials:
@@ -32,7 +32,7 @@
 ## 🚀 Featured Projects:
 
 - **OSKM ITB 2026 Web Portfolio** | Frontend Developer in a 28-developer monorepo · `React` `TypeScript` `Vite` `Vitest`
-- **PEMIRA KM-ITB 2026 Web Platform** | Responsive frontend pages, 🏆 Best IT Staff Award · `React` `Tailwind CSS` `JavaScript`
+- **PEMIRA KM-ITB 2026 Web Platform** | Responsive frontend pages · `React` `Tailwind CSS` `JavaScript`
 
 ## 📊 GitHub Stats:
 
