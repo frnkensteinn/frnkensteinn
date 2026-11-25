@@ -34,8 +34,6 @@ Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 - **OSKM ITB 2026 Web Portfolio** | Frontend Developer in a 28-developer monorepo · `React` `TypeScript` `Vite` `Vitest`
 - **PEMIRA KM-ITB 2026 Web Platform** | Responsive frontend pages · `React` `Tailwind CSS` `JavaScript`
 
-## GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frnkensteinn&theme=radical&hide_border=false&layout=compact)
 
 ---
