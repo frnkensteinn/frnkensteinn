@@ -3,12 +3,6 @@
 Information Systems and Technology (IST) student at Institut Teknologi Bandung (ITB)<br>
 Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 
-### Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanfa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ihsanfdha_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ihsanfadhlihakbar@gmail.com)
-
 ## Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,6 +28,10 @@ Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 - **OSKM ITB 2026 Web Portfolio** | Frontend Developer in a 28-developer monorepo · `React` `TypeScript` `Vite` `Vitest`
 - **PEMIRA KM-ITB 2026 Web Platform** | Responsive frontend pages · `React` `Tailwind CSS` `JavaScript`
 
+### Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanfa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ihsanfdha_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ihsanfadhlihakbar@gmail.com)
 
 ---
