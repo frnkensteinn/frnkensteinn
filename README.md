@@ -36,7 +36,6 @@ Reach me at: [ihsanfadhlihakbar@gmail.com](mailto:ihsanfadhlihakbar@gmail.com)
 
 ## GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=frnkensteinn&theme=radical&hide_border=false&count_private=true&show_icons=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frnkensteinn&theme=radical&hide_border=false&layout=compact)
 
 ---
